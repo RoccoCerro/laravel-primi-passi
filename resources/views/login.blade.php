@@ -17,10 +17,10 @@
         <label class="form-label" for="psw">Password</label>
         <input class="form-control" type="password" name="" id="psw">
       </div>
-      <button >Entra</button>
+      <button type="button" class="btn btn-dark">Entra</button>
     </form>
     <form action="http://127.0.0.1:8000/" class="p-2">
-      <button >Home</button>
+      <button class="btn btn-dark">Home</button>
     </form>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
